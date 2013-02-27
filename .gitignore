@@ -13,7 +13,7 @@ capybara-*.html
 /coverage/
 /spec/tmp/*
 **.orig
-rerun.txt
+rerun.txt<<<<<<< HEAD
 pickle-email-*.html
 .project
 .ruby-version
