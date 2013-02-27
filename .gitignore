@@ -31,9 +31,13 @@ capybara-*.html
 /coverage/
 /spec/tmp/*
 **.orig
-rerun.txt<<<<<<< HEAD
+rerun.txt
 pickle-email-*.html
 .project
 
 # rbenv
 .ruby-version
+
+# Application
+config/database.yml
+config/application.yml
